@@ -6,6 +6,4 @@ This is a responsive clone of the hulu app based on a concept for its new look. 
 
 Screenshots
 
-https://github.com/walu-dev/hulu-clone-app/issues/1#issue-759711580
-
-https://github.com/walu-dev/hulu-clone-app/issues/2#issue-759717691
+To visit website - https://hulu-clone-2aa29.web.app/
